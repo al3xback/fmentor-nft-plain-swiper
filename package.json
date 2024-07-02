@@ -8,14 +8,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/al3xback/fmentor-nft-plain.git"
+		"url": "git+https://github.com/al3xback/fmentor-nft-plain-swiper.git"
 	},
 	"author": "alex <al3xback@gmail.com>",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/al3xback/fmentor-nft-plain/issues"
+		"url": "https://github.com/al3xback/fmentor-nft-plain-swiper/issues"
 	},
-	"homepage": "https://github.com/al3xback/fmentor-nft-plain#readme",
+	"homepage": "https://github.com/al3xback/fmentor-nft-plain-swiper#readme",
 	"devDependencies": {
 		"prettier": "^2.8.8"
 	}
